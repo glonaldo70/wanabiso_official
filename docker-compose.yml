@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  wanabiso-site:
+    build: .
+    image: wanabiso2k26:latest
+    container_name: wanabiso2k26
+    ports:
+      - "8083:80"
+    restart: unless-stopped

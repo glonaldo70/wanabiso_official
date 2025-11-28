@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/wanabiso",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/glonaldo70",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/wanabiso/",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
