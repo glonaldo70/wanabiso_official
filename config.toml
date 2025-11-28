@@ -52,7 +52,7 @@ pygmentsUseClasses = true
     url = '/'
     weight = 1
   [[menu.main]]
-    name = "News"
+    name = "Portfolio"
     identifier = "blog"
     weight = 2
     url = "/posts/"
