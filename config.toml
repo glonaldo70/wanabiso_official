@@ -1,4 +1,4 @@
-baseURL = "/wanabiso2k26"
+baseURL = "/wanabiso_official"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
