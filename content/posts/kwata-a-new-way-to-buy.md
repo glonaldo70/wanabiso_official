@@ -2,7 +2,7 @@
 title: "Kwata: Revolutionizing Local Commerce"
 date: 2025-11-28
 description: "Discover Kwata, the professional marketplace that connects buyers and sellers with clarity, security, and efficiency. Explore our new features designed for your success."
-image: images/kwata-marketplace.png
+image: images/kwata-marketplace.jpg
 imageAltAttribute: Kwata Marketplace
 tags:
    - e-commerce
