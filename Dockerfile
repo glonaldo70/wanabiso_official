@@ -18,6 +18,9 @@ RUN mkdir -p /var/www/html/public
 # Copy the built site from the builder stage
 COPY --from=builder /public /var/www/html/public
 
+# Fix permissions
+RUN chmod -R 755 /var/www/html/public
+
 # Copy the Apache configuration
 COPY apache/laravel.conf /usr/local/apache2/conf/wanabiso.conf
 
